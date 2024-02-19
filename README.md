@@ -17,3 +17,8 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 npm test runs tests locally
+
+todo add python script to delete all folders with questions
+todo add python script to create folders and files with questions
+
+limit jests to run one folder at a time
